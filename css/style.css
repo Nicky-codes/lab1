@@ -19,4 +19,16 @@ footer{
         margin-right: 3%;
         vertical-align: top;
     }
+    article{
+        display: inline-block;
+        width: 30%;
+        margin-right: 3%;
+        vertical-align: top;
+    }
+    article{
+        display: inline-block;
+        width: 30%;
+        margin-right: 3%;
+        vertical-align: top;
+    }
 }
